@@ -69,21 +69,6 @@ function generateMatches (teams) {
 }
 
 function generatePossibleSchedule (matches) {
-  const swapCurrentIndex = Math.floor(matches.length / 2) - 1
-  const swapDestinationIndex = matches.length - 1
-
-  let newSchedule = matches.slice()
-  newSchedule[swapCurrentIndex] = matches[swapDestinationIndex]
-  newSchedule[swapDestinationIndex] = matches[swapCurrentIndex]
-  return newSchedule
-}
-
-
-let swapCurrentIndex = 0
-let swapDestinationIndex = 1
-let currentSchedule = null
-
-function changeSwapIndex (numberOfMatches) {
 
 }
 
