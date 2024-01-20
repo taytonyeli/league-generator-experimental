@@ -1,0 +1,27 @@
+1 2 3 4 5 6 7
+1 2 3 4 5 7 6 swap
+1 2 3 4 6 5 7 [5] to [anchorPos5/in4] lower
+1 2 3 4 6 7 5 swap
+1 2 3 4 7 5 6 [6] to [anchorPos5/in4] lower
+1 2 3 4 7 6 5 swap
+1 2 3 5 4 6 7 [4] to [anchorPos4/in3] higher
+1 2 3 5 4 7 6 swap
+1 2 3 5 6 4 7 [5] to [anchorPos5/in4] lower
+1 2 3 5 6 7 4 swap
+1 2 3 5 7 4 6 [6] to [anchorPos5/in4] lower
+1 2 3 5 7 6 4 swap
+1 2 3 6 4 5 7 [5] to [anchorPos4/in3] higher
+1 2 3 6 4 7 5 swap
+1 2 3 6 5 4 7 [5] to [anchorPos5/in4] lower
+1 2 3 6 5 7 4 swap
+1 2 3 6 7 4 5 [6] to [anchorPos5/in4] lower
+1 2 3 6 7 5 4 swap
+1 2 3 7 4 5 6 [6] to [anchorPos4/in3] higher
+1 2 3 7 4 6 5 swap
+1 2 3 7 5 4 6 [5] to [anchorPos5/in4] lower
+1 2 3 7 5 6 4 swap
+1 2 3 7 6 4 5 [6] to [anchorPos5/in4] lower
+1 2 3 7 6 5 4 swap
+1 2 4 3 5 6 7 [3] to [anchorPos3/in2] higher
+1 2 4 3 5 7 6 swap
+1 2 4 3 6 5 7 [5] to [anchorPos5/in4] lower
